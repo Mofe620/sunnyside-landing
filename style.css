@@ -295,7 +295,8 @@ footer a:hover {
         left: 47%;
     }
     main {
-        width: 100%;
+        width: 90%;
+        margin: 0 auto;
     }
     .hero {
         background-image: url(images/mobile/image-header.jpg);
