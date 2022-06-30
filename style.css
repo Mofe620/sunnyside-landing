@@ -241,7 +241,7 @@ footer a:hover {
 /* MEDIA QUERY */
 @media (max-width:400px){
     body {
-        max-width: 380px;
+        max-width: 400px;
     }
     nav {
         position: relative;
